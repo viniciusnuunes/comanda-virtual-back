@@ -19,6 +19,9 @@
   "homepage": "https://github.com/viniciusnuunes/comanda-virtual-back#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-alpha.1",
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.5.2"
   },
